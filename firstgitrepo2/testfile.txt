@@ -1,5 +1,8 @@
 testfile
 <<<<<<< HEAD
+<<<<<<< HEAD
 error
+=======
+>>>>>>> parent of d749d84 (Revert "testfile quiz")
 =======
 >>>>>>> parent of d749d84 (Revert "testfile quiz")
