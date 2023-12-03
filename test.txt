@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 test file edit
 dfsfsefweeeeeeeeeeeeeeeeeeeee
 error
+=======
+>>>>>>> parent of 6811d14 (Update test.txt)
