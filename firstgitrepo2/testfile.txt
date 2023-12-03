@@ -1,2 +1,5 @@
 testfile
+<<<<<<< HEAD
 error
+=======
+>>>>>>> parent of d749d84 (Revert "testfile quiz")
